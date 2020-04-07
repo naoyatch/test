@@ -1,0 +1,40 @@
+.header_image{
+  position: relative;
+  top: 130px;
+  width: 100vw;
+  height: 30vw;
+  z-index: 1;
+}
+.main_content{
+  background-color: pink;
+  width: 80%;
+  height: 200px;
+  float: left;
+  margin-top: 200px;
+}
+.main_content h1{
+  text-align: center;
+}
+.catch_image{
+  margin: 0 auto;
+}
+/*キャッチコピー下画像*/
+#aska3d{
+  margin: 0px 15px 0px 15px;
+}
+#cafe_robot{
+  margin: 0px 15px 0px 15px;
+}
+#eat_in_space{
+  margin: 0px 15px 0px 15px;
+}
+/*キャッチコピー下画像*/
+.right_banner{
+  width: 20%;
+  height: 200px;
+  float: left;
+  margin-top: 200px;
+}
+ul{
+  list-style: none;
+}
